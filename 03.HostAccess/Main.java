@@ -27,7 +27,3 @@ public class Main {
 		context.eval(source);
 	}
 }
-
-// javac *.java
-// java Main
-// Compiles and runs only on GraalVM

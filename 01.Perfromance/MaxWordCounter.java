@@ -34,8 +34,3 @@ public class MaxWordCounter {
 
 }
 
-// javac MaxWordCounter.java
-// java MaxWordCounter book.txt
-// Compile on openJDK
-// Execute and see performance difference between openJDK & GraalVM
- 
